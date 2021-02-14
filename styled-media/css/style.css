@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.png);
+  background: center no-repeat url(esponacast/styled-media/img/background.png);
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url(esponacast/styled-media/img/logo.png);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(splash.png);
+  background-image: url(esponacast/styled-media/img/splash.png);
 }
 
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url(esponacast/styled-media/img/watermark.png);
   background-size: 57px 57px;
 }
