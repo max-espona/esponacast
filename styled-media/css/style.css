@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(https://max-espona.github.io/esponacast/styled-media/img/background.png);
+  background: center no-repeat url(../img/background.png);
 }
 
 .logo {
-  background-image: url(https://max-espona.github.io/esponacast/styled-media/img/logo.png);
+  background-image: url(../img/logo.png);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(https://max-espona.github.io/esponacast/styled-media//img/splash.png);
+  background-image: url(../img/splash.png);
 }
 
 .watermark {
-  background-image: url(https://max-espona.github.io/esponacast/styled-media/img/watermark.png);
+  background-image: url(../img/watermark.png);
   background-size: 57px 57px;
 }
